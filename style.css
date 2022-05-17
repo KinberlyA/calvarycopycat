@@ -601,7 +601,6 @@ iframe {
   .container {
     width: 100vw;
     height: 100%;
-    padding: 1rem;
     margin: 0 auto;
   }
   .main-wrapper {
